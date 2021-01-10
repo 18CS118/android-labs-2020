@@ -23,7 +23,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Sec1814080911106Activity"
+    tools:context=".Sec1814080911118Activity"
     >
     <TextView
         android:id="@+id/notification_background"
@@ -51,7 +51,7 @@
 
 ## 四、实验结果
 
-![实验结果](https://github.com/18cs06/android-labs-2020/blob/master/students/sec1814080911106/lab3.png)
+![实验结果](https://github.com/18CS118/android-labs-2020/blob/master/students/sec1814080911118/lab3.png)
 
 
 ## 五、实验心得
